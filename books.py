@@ -38,17 +38,24 @@ class Book():
 		self.title = detail_json["title"]
 		self.numOfPages = detail_json["number_of_pages"]
 		self.publishDate = detail_json["publish_date"]
+		self.authors_json = detail_json["authors"]
+		self.authors_first = self.authors_json[0]
+		self.authors = self.authors_first["name"]
 		
 		
 def main():
 	#main script starts here
 	#print(z['authors'])
 	get_book_info()
-	print(str(general_json) + "\n" + "\n")
-	print(detail_json)
-	print('now for the show...' + '\n' + '\n')
+	# print(str(general_json) + "\n" + "\n")
+	# print(detail_json)
+	# print('now for the show...' + '\n' + '\n')
 	thebook = Book(args.isbn_str)
+	print(thebook.title)
+	print(thebook.isbn)
+	print(thebook.authors)
 	print(thebook.publishDate)
+	print(str(thebook.numOfPages) + " pages")
 
 try:
 	args.isbn_str
