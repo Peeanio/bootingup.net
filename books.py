@@ -9,6 +9,7 @@ for use on a web server or other viewer
 import requests
 import json
 import argparse
+from bs4 import BeautifulSoup
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-i", "--isbn", metavar="ISBN", dest="isbn_str", \
@@ -30,6 +31,22 @@ def get_book_info():
 	general_json = y['ISBN:' + args.isbn_str]
 	detail_json = general_json['details']
 
+def get_book_description():
+    '''uses the info_url to find the web page, parse it out to get the 
+    description
+    '''
+    book_url = general_json["info_url"]
+    #print(book_url)
+    book_webpage = requests.get(book_url)
+    #print(book_webpage)
+    webpage_content = book_webpage.text
+    #print(webpage_content)
+    content = BeautifulSoup(webpage_content, 'lxml')
+    #print(content)
+    #description = content.find_all('div', attrs={'class':'workHelp'})
+    description = content.find_all('p', attrs={'class':'workHelp'})
+    #description = content.find_all('div', attrs={'class':'book-description-content restricted-view'})
+    print(description)
 
 class Book():
 	#load up a book with data from the API
@@ -56,6 +73,7 @@ def main():
 	print(thebook.authors)
 	print(thebook.publishDate)
 	print(str(thebook.numOfPages) + " pages")
+	get_book_description()
 
 try:
 	args.isbn_str
