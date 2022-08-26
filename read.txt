@@ -1,21 +1,21 @@
 [2021]
 Follet, Ken - The Morning and the Evening
 Follet, Ken - The Pillars of the Earth
-Leckie, Ann - Ancillary Justice
-Rand, Ayn - The Fountainhead
-Scalzi, John - Old Man's War
-Keefe, Patrick Radden - Say Nothing
+Leckie, Ann - Ancillary Justice 9780316246620
+Rand, Ayn - The Fountainhead 9780451191151
+Scalzi, John - Old Man's War 9780765348272
+Keefe, Patrick Radden - Say Nothing 
 Sterling, Bruce - Heavy Weather
 Urquhart, Alistair - The Forgotten Highlander
-Gibson, William - Pattern Recognition
+Gibson, William - Pattern Recognition 0425192938
 [2022]
 Rand, Ayn - We the Living 9780451233592
-Spalding, Rober - Stealth War
+Spalding, Robert - Stealth War
 Budiansky, Stephen - Battle of Wits U780743217347
 Hill, Fionia and Gaddy, Clifford - Mr. Putin 9780815726173
 Gibson, William - Agency 9781101986943
 MacMillan, Margaret - War 9780593132371
-Follet, Ken - World Without End
+Follet, Ken - World Without End 9780739496305
 Abnett, Dan - The Unremembered Empire
 Wraight, Chris - Scars
 Follet, Ken - Column of Fire 9780451478009
@@ -23,7 +23,7 @@ White, Rowland - Vulcan 607 9780552152297
 Budiansky, Stephen - Code Warriors 9780804170970
 Bond, Larry - Red Pheonix 9780446514330
 Bond, Larry - Vortex 9780446515663
-Bond, Larry - Cauldron 
+Bond, Larry - Cauldron 9780446515672
 Bolger, Daniel - Feast of Bones 080410834
 Coll, Steve - Ghost Wars 9780143034667
 Asimov, Isacc - Foundation 9780553293357
@@ -33,3 +33,4 @@ Strittmatter, Kai - We Have Been Harmonized 9780063027305
 Zelazny, Roger - Damnation Alley 0812558758
 Beard, Mary - S.P.Q.R 9781631492228
 Larson, Erik - The Splendid and the Vile 978038534871
+Leckie, Ann - Ancillary Sword 9780316246651
