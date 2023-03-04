@@ -1,0 +1,10 @@
+baseurl = "https://www.bootingup.net/" 
+title = "Bootingup.net"
+author = "Your name"
+theme = "ananke"
+Paginate = 100
+SectionPagesMenu = "main"
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/Peeanio"

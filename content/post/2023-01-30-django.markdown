@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Django"
+date: 2023-01-30 00:00:00 -0700
+categories: Blog update
+---
+
+Recently, full stack web development was something I wanted to try my hand at. I thought that learning ReactJS and Javascript would be what I needed to do; my first try was use AWS to stand up a serverless app, so the JS needed to help the user complete the application. That was cool and made sense, but then I was trying to figure out how to tie that to my own API and not have the main logic etc show in the frontend. Turns out, I should have taken some web dev classes at some point, because I'd never touched anything like this before and my web stack knowledge was pretty shaky. LAMP stack, no problem, but I'm not even looking under where /var/www/html. I know Python and so wanted to give Django a try, and boy was I impressed by what I could do with the polls app. 
+
+So now that I have some idea on the tools I have, I can make a mk1 version of a few apps I've had on my mind for a little while. Hopefully that is something Django can accelerate, because the user interface and tool access is part of the app. Once there is an idea of what the tool suite is looking like, I can go to someone with real webdev to help land on a good framework. So stay tuned!

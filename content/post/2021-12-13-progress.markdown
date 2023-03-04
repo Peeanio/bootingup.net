@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Progress"
+date:   2021-12-13 00:00:33 -0700
+categories: Blog update 
+---
+
+In lieu of any real progress on my prior projects, I am just getting some more thoughts down. The goal is still to do some Haproxy server from a VPS into the local network, where there will be a containerised and segmented DMZ for the servers to show off. These will all be behind some form of MFA based SAML login server, (thinking Keycloak with one of a few SAML servers) to keep people who they say they are. 
+
+When this is build, it will be a big win on having servers at home again. I do want to have my infrastructure as a playground to learn and test things with, so I need a production enviornment to work with. I hope to scale enough and host enough to get some COLO space ;)

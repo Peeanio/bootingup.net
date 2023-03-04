@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Blog"
+date:   2022-02-28 00:00:33 -0700
+categories: Blog update 
+---
+
+When I started doing this blog, I'm not sure exactly what I wanted it to be. Some of my first posts were simply papers I had written for school I thought were cool. There have been few technically explict posts (with configs, tutorials, etc) based on things I had done myself, as most of the posts are just summaries of things I have done or are working on. I supposed that's because I don't have many peers who would be interested and I am not involved in any tech groups. 
+
+I don't really plan on changing the latter any time soon, but perhaps I will try doing some more technical posts of projects. I know I want to up my game with python, writing useful projects (like metasploit modules), and making reliable infrastructure always intrigues me, but I don'tdo much beyond gluing off the shelf components together. Something to keep in mind going forward.

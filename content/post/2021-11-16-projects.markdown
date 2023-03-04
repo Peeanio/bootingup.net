@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Projects"
+date:   2021-11-16 00:00:33 -0700
+categories: Blog update 
+---
+
+Been struggling again keeping the projects on going, but I started a page of notes regarding projects and some dev ideas. I intend to build up an Okta-like universial directory, with LDAP, SAML, etc, and plug infra into it. Some who have been following may have noticed the codenames.py application, which is intended to be a part of a game I want to write about espionage.
+
+At work, we have been going to lunch often, so I want to write a program that suggests where to go based on what people like/want, balanced against things that are important to them, such as time, distance, price, etc. Could be fun, would likely try it in Go, as the coworkers like that. 
+
+Really just been scratching my dev itch at work, and have not had the time after hours to get anything concrete done. 

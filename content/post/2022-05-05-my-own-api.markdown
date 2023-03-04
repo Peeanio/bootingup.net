@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "My Own API"
+date:   2022-05-05 00:00:33 -0700
+categories: Blog update 
+---
+
+Work has progressed on my own API: just messing with some data with a spy theme. I've been able to do GET, PUT, POST, and DELETE, which has been cool. I've got some more avenues to explore, along with just general tidying up: call and run a script via the API for value setting, then general edges to clean up. 
+
+After that, putting a web client in front of the API to show off the data and how to work with it. Then I will have been a "full stack dev" and can see what pulled me in to work with. Really exciting stuff!

@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "FreeBSD"
+date:   2019-11-12 12:00:33 -0700
+categories: Blog update FreeBSD
+---
+
+I like Linux. I like the options, the countless tweaks, and all the software I could never go through all of being right there. So what if I don't want Linux, but still want all of these benefits? What if I want all my GNU software, but a different kernel? FreeBSD has been there for a long time, and it is still there. I have spent a cursory and surface level amount of time using and reading about it, and come to a few conclusions about this Unix-based operating system. Being that FreeBSD is considered modern Unix, while Linux is its own thing today, I have donned my wizard hat and robe and grown my beard a few inches after using the operating system for a time.
+
+FreeBSD is familar to any Linux users. Some things are different to those who stick to the more mainstream Linuxes, with the lack of base Grub and Systemd being very noticeable. These differences are likely why there is such a place for FreeBSD, among others. It does things differently, but also similarly, enough to be a major tool in any sysadmin's kitbox. GNU and bsdutils are shared across both. POSIX shell and cron are there. It feels like more like running an old school distro like Gentoo than it does another Unix like MacOS. MacOS is a whole other can of worms, but Gentoo and FreeBSD are close cousins. I was dissapointed to hear that the Gentoo with FreeBSD kernel project had been discontinued, because it would have been great to compare the two head to head. 
+
+So when should someone use one or the other? Overall, Linux has the support. It has Docker, it has the stable modern desktops, it has games support, it has the community. But FreeBSD, and the other BSDs, have some great developers and tools that make the whole UNIX-like ecosystem better. Both sides feed off eachother. The BSDs are definitely the more stable set and forget type (especially after looking at the release cycels), but other things make the platform stand out. Native jails. The refrence network stack. OpenSSH is from OpenBSD. It has much to offer, but less of the screen time because so many of the hackers that got developer jobs moved on. What the future holds for the *BSDs is unknown, but for the greater ecosystem, the longer it stays, the longer it helps everyone.

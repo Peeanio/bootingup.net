@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Matrix"
+date:   2020-04-19 12:00:33 -0700
+categories: Blog update 
+---
+
+I have a pretty small working group of friends that I talk to, and the primary friends that I game with were using Discord. I had been using third party clients, in an effort to fix the reliability problems I was having on Linux (which didn't help), and to keep out of what one may call "botnet." I wanted off of that, and to move to something more usable and extensible. So I went ahead and set up a Matrix Synapse homeserver.
+
+The process wasn't too bad. I set it up on a VPS, using the Debian Unstable package install. I attempted to use apt prefrences to isloate only the matrix-synapse package on unstable, but the number of python dependencies made this not workable. The config is fairly straight forward, but one thing I was looking forward to was not working: voice calling and chat. It may be an issue with my turn server, but needs more testing. That being said, I like what I have with matrix so far. It is on a different domain than bootingup.net, but I may set up a room or even a new homeserver for it, if a communitty wants to spring up. Let me know if anyone wants to be in touch!
+
+Also, any recommendations on voice chat software is appreciated. Top choices in my head right now are Jitsi and Teamspeak, or maybe both, across my different domains, as they serve different purposes for me. 

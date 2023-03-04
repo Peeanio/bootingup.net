@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Holidays"
+date:   2022-01-03 00:00:33 -0700
+categories: Blog update 
+---
+
+The holidays have been and gone. I really enjoyed having some downtime to spend it away from work or other high stress tasks, which helped give me a reset to take on the new year. Some modeling tasks got done, to a fairly decent degree, and I feel myself getting closer and closer to something that is fun there. More python was also done, being the start of the openlibrary(?) API tool that can pull info on books by ISBN, as I want to make pretty HTML pages from the ISBN to put on a "trophy" bookshelf to display. Need to get going on the HTML part.
+
+So keep posted for more, as I want to have a successful year this year. The second half (or three quarters) of 2021 did not feel very productive for me professionally, or really in any other manner, so I want to take some positve energy forward to get some goals and tasks done with enthusiasm. 

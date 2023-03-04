@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "DevOps"
+date:   2022-06-27 00:00:33 -0700
+categories: Blog update 
+---
+
+It's been a while; there was a big changeover as I prepared to leave one job and start another. Starting at this new job, I got exposed to Chef, and had the time to really bash at it until I feel comfortable with it. It is a really interesting tool compared to Ansible, as it feels a bit easier to use it as a configuration management tool only, and not taking advantage of Ansible's ability to reach into anything and do things in almost any manner. Looking back, I see how some of my Ansible playbooks were more like scripts than configuration management. There's a place for both, and the two tools are not mutually exclusive. 
+
+The process got me thinking: can I use Chef to provision infrastructure as code? Most people using Chef for this use terraform, but being sceptical of the majority marketshare, I started looking at alternatives. There are some others: Cloudify, Pulumi, Crossplane. These all feel answers to some questions, but in my enviornments there was never the NEED to move, just the desire. However, using any of thesethese options, it really feels like running a true IaC platform is possible, and something I really want to get into. I love writing declarative platforms and linked architecture. That's the world we've moved to since I joined up as a sysadmin. I hope that I will be able to make appreciable progress and be able to show that off here. 
+
+Stay tuned!

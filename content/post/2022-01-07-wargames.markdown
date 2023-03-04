@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Wargames"
+date:   2022-01-07 00:00:33 -0700
+categories: Blog update 
+---
+
+Been interested in getting some wargames going, but instead of focusing on a true historical confrontation or unique imaginations, I went and wrote a story for a world where any sort of small scale confrontation could take place. 
+
+> In 1941, residents of southern Oregon and northern California organised to form their own state of Jefferson, their capital in Yreka. After a brief struggle, federal government leadership granted their independence in order to focus on something more important: Pearl Harbour and the American entrance to the Second World War.
+>
+> For much of the remainder of the twentith century, most major nations split and divided into more minor states, drastically changing the international landscape. Global geopolitical power was decentralised everywhere but order was kept through a global United Nations with teeth and a higher tolerance for smaller armed conflicts. 
+>
+> By the turn of the millenium, the United States of America had shifted so much power to the state level, that the federal government had become largely cerimonial. Small groups of two or through states at a time began to cede from the Union, including when, in 1999, Washington and Oregon diverged into Cascadia.
+>
+> The Independent Republic of California was formed in 2003 from what remained of California, developing into its own technological and cultural nation. The capital of the nation was located again in Sacremento, although much migration across the borders occured as citizens moved from one independent state to another. 
+>
+> Issues began to develop quickly for the new southern nation, as food and water supply prices from surrounding neighbours began to skyrocket for the wealthy young country. The eyes of the nation focused desperately on their nothern neighbor state of Jefferson. Disatisified by the leadership offered by Washington, D.C, Jefferson declared its allegience to Cascadia, comprised of the former states of Oregon and Washington, which welcomed them with open arms. 
+>
+> Technology-wise, both Cascaida and the IRC are roughly considered peers, both counntries having strong research centers and innovative cultures. Cascadia has far more access to natual reserves of natural resources, especially water, while the IRC has large amounts cash and manpower available, although this may work against the country in the long run.
+>
+> Both countries have access to American surplus and commendeered National Guard equipment and vechiles, with no large independent military industry begun by either. Bands of mercenaries of variable quality and up to company size are readily available on the global market. Local militias are common in the 21st century in all smaller nations.
+> 
+> The fledgling nation Cascadia had much to worry about with its lack of support from its parent state, somewhat inexperience government body, and enough natural resources to make any neighbour envious...
+
+It may change in the future, but that's the first rough draft. The plan is to use USGS maps along with the **Solo Wargaming Guide** to play it all out. I have some miniatures of varying scales to use, along with the game **Armoured Brigade** to simulate combat. Posts may come up about how it goes, especially as I intend to write utilities in Python until I have a good way of running or generating the game semi-automatically, or even as a digital version.
+
+Stay tuned.

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Thinkpad X270"
+date:   2020-04-14 12:00:33 -0700
+categories: Blog update 
+---
+
+I recently got a Thinkpad X270, used, and have been using it as my daily for a few weeks. I have some impressions that I wanted to share, which may be helpful. First, I have the 1080p IPS panel, and it is a lovely laptop screen. A huge improvement from the 2010-2012 era 768 screens I was used to, and I am very happy with the extra screen real estate, viewing angles, and quality. The keyboard is a pretty standard new-era keyboard, with the Trackpoint recessed too much for what I would prefer. The new-type fingerprint scanner has not yet had its drivers released on Linux, and I don't see that happening soon, so if that is a priority, it may be best to stick with an X260. One big selling feature is the inclusion of USB-C, which I plan on setting up with a dock. Batter life is quite excellent; with the spilt batteries it is difficult to estimate, but somewhere between 8-10 hours sounds reasonable. Overall a decent purchase, but waiting for the price to come down on these models or even the Ryzen ones is probably a safer bet, sticking with whatever old model is still kicking around.

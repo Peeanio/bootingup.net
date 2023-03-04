@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "LFCS"
+date:   2020-02-06 12:00:33 -0700
+categories: Blog update 
+---
+
+
+This week I earned the Linux Foundation Certified Sysadmin certification. This is a cert that I got in hopes of following a career path in exactly what the name denotates. For those who don't know, the cert is very similar to the RHCSA, and a probably interchangeable aside from the signing authority and the LFCS allows one to use Ubuntu for the exam. It was not an easy exam, being performance based, but I was well prepared and passed with flying colours. Find and various invocations thereof was perhaps the most useful command for me during the exam, but I had thankfully mastered most uses for it already. There were some other sections on the test that I found surprised to see on there, given the official study material. This material is really not beneficial, and I found the best cram-study refrence on a github page.
+
+Thanks for reading. LFCE next?

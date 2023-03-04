@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Privacy Focused Organisations"
+date:   2020-11-24 12:00:33 -0700
+categories: Blog update 
+---
+
+The recent trend of organisations moving towards SaaS as their desired goal for all infrastructure, from identity provision to WiFi access, is a troubling development for those who become associated through  work, education, or other means but who must submit to their terms and policies with no recourse of action. The FSF has been campaigning against this, primarily against video confrencing, such as Zoom, but they  offer little alternatives. Most if not all of these things are built on open source projects of some form or another, but these organisations see the vendor as a quick and safe way to a) deploy a ready for use application, and b) take care of all their needs and security compliance obligations. I can understand the second, as security should keep everyone up at night, but these mid to small sized organisations are unwilling to spend the time to get the right self hosted application for their organisation taken care of internally before shopping around. 
+
+I have worked in education for serveral years, where these problems are rife; schools have little budget and high numbers of technically illitrate and demanding stakeholders, and very small numbers of tech staff. These are the organisations that need a production ready, plug and play solution for their identity provision, single sign on, and internal resource managment. These deployments of open source projects need a sane deployment script or manual, essentially, to provide a good base and easily accessible management. The main thing that comes to mind when bringing up these points is LDAP, which is feels as dated of an application as it is, despite how required it is for businesses. Building an ecosystem, such as linuxservers.io for Docker, or a ideal model for schools to model after, and see what is possible, is what is needed to kick some life into the sector that so many rely on, where vendors unjustly command the IT teams and organisations.
