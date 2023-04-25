@@ -1,0 +1,10 @@
+---
+layout: post
+title: "ESP32"
+date: 2023-04-25 00:00:00 -0700
+categories: Blog update
+---
+
+Dropped the ball on working on some things because my main focuses were taking a lot of time and effort. I did get some ESP32 units to start messing around with, which feel like a step up from the Arduinos I started on seven years ago. With nothing but a simple library and its example loop, I was able to get a bluetooth speaker built and configured (with a DAC, of course). Here I was gearing up to learn C or Rust for this project and dive into some low level, but it was all done for me. The project itself did not mean enough for me to dig into properly, but I do plan to doing it for some sensor projects with other ESP32s. 
+
+LoRa is of course still super exciting, so I hope there's a satisfying way to build sensors that gives me some code to write, but not too much. The plan is to really do the data processing away from the sensor (because, IoT), so stay tuned for that to appear!
