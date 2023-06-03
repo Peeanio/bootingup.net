@@ -1,8 +1,10 @@
 ---
-title: SPQR
-date: 2023-06-03 16:21:09 -0700
+title: Spqr
+date: 2023-06-03 16:48:40 -0700
 ---
 
-| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
-| ----------- | ------------ | ------- | -------- | -------------- | ----- |
-| 9781631492228  | Mary Beard| Sep 06, 2016| 608| |https://openlibrary.org/books/OL29257077M/SPQR|    
+| ISBN        | Authors      | Year    | Pages    | URL   |
+| ----------- | ------------ | ------- | -------- | ----- |
+| 9781631492228  | Mary Beard| Sep 06, 2016| 608|https://openlibrary.org/books/OL29257077M/SPQR|    
+
+### Description

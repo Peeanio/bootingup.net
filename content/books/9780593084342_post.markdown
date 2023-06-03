@@ -1,8 +1,10 @@
 ---
 title: Stealth War
-date: 2023-06-03 16:38:45 -0700
+date: 2023-06-03 16:48:14 -0700
 ---
 
-| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
-| ----------- | ------------ | ------- | -------- | -------------- | ----- |
-| 9780593084342  | Robert Spalding| 2019| 256| |https://openlibrary.org/books/OL29442556M/Stealth_War|    
+| ISBN        | Authors      | Year    | Pages    | URL   |
+| ----------- | ------------ | ------- | -------- | ----- |
+| 9780593084342  | Robert Spalding| 2019| 256|https://openlibrary.org/books/OL29442556M/Stealth_War|    
+
+### Description

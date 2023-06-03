@@ -1,8 +1,10 @@
 ---
 title: The Unremembered Empire
-date: 2023-06-03 16:38:49 -0700
+date: 2023-06-03 16:48:22 -0700
 ---
 
-| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
-| ----------- | ------------ | ------- | -------- | -------------- | ----- |
-| 9781849705738  | Dan Abnett| Feb 18, 2014| 416| |https://openlibrary.org/books/OL31841853M/The_Unremembered_Empire|    
+| ISBN        | Authors      | Year    | Pages    | URL   |
+| ----------- | ------------ | ------- | -------- | ----- |
+| 9781849705738  | Dan Abnett| Feb 18, 2014| 416|https://openlibrary.org/books/OL31841853M/The_Unremembered_Empire|    
+
+### Description

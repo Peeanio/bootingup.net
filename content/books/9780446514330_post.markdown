@@ -1,8 +1,11 @@
 ---
 title: Red Phoenix
-date: 2023-06-03 16:20:59 -0700
+date: 2023-06-03 16:48:27 -0700
 ---
 
-| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
-| ----------- | ------------ | ------- | -------- | -------------- | ----- |
-| 9780446514330  | Larry Bond| 1989| 588| In the aftermath of a series of student riots in Seoul, the U.S. Congress rushes a bill into law calling for the complete withdrawal of American troops from South Korea. This sets off a chain reaction: North Korea attacks across the DMZ, Russia supports North Korea, the Chinese remain neutral, and the United States fights again alongside its South Korean allies. The full range of ground, air, and naval forces take part in vicious combat, first to hold off the North Korean onslaught, then drive them back.|https://openlibrary.org/books/OL2058219M/Red_Phoenix|    
+| ISBN        | Authors      | Year    | Pages    | URL   |
+| ----------- | ------------ | ------- | -------- | ----- |
+| 9780446514330  | Larry Bond| 1989| 588|https://openlibrary.org/books/OL2058219M/Red_Phoenix|    
+
+### Description
+In the aftermath of a series of student riots in Seoul, the U.S. Congress rushes a bill into law calling for the complete withdrawal of American troops from South Korea. This sets off a chain reaction: North Korea attacks across the DMZ, Russia supports North Korea, the Chinese remain neutral, and the United States fights again alongside its South Korean allies. The full range of ground, air, and naval forces take part in vicious combat, first to hold off the North Korean onslaught, then drive them back.

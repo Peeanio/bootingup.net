@@ -1,8 +1,11 @@
 ---
-title: The Fellowship of the Ring
-date: 2023-06-03 16:21:44 -0700
+title: The Fellowship Of The Ring
+date: 2023-06-03 16:49:09 -0700
 ---
 
-| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
-| ----------- | ------------ | ------- | -------- | -------------- | ----- |
-| 0345339703  | J.R.R. Tolkien| 2001| 458| One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them."A unique, wholly realized other world, evoked from deep in the well of Time, massively detailed, absorbingly entertaining, profound in meaning."--The New York TimesIn ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron, the Dark Lord, forged the One Ring, filling it with his own power so that he could rule all others. But the One Ring was taken from him, and though he sought it throughout Middle-earth, it remained lost to him. After many ages it fell into the hands of Bilbo Baggins, as told in The Hobbit. In a sleepy village in the Shire, young Frodo Baggins finds himself faced with an immense task, as his elderly cousin Bilbo entrusts the Ring to his care. Frodo must leave his home and make a perilous journey across Middle-earth to the Cracks of Doom, there to destroy the Ring and foil the Dark Lord in his evil purpose.|https://openlibrary.org/books/OL45506127M/The_Fellowship_of_the_Ring|    
+| ISBN        | Authors      | Year    | Pages    | URL   |
+| ----------- | ------------ | ------- | -------- | ----- |
+| 0345339703  | J.R.R. Tolkien| 2001| 458|https://openlibrary.org/books/OL45506127M/The_Fellowship_of_the_Ring|    
+
+### Description
+One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them."A unique, wholly realized other world, evoked from deep in the well of Time, massively detailed, absorbingly entertaining, profound in meaning."--The New York TimesIn ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron, the Dark Lord, forged the One Ring, filling it with his own power so that he could rule all others. But the One Ring was taken from him, and though he sought it throughout Middle-earth, it remained lost to him. After many ages it fell into the hands of Bilbo Baggins, as told in The Hobbit. In a sleepy village in the Shire, young Frodo Baggins finds himself faced with an immense task, as his elderly cousin Bilbo entrusts the Ring to his care. Frodo must leave his home and make a perilous journey across Middle-earth to the Cracks of Doom, there to destroy the Ring and foil the Dark Lord in his evil purpose.

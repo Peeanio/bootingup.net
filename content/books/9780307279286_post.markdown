@@ -1,8 +1,10 @@
 ---
 title: Say Nothing
-date: 2023-06-03 16:20:44 -0700
+date: 2023-06-03 16:48:09 -0700
 ---
 
-| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
-| ----------- | ------------ | ------- | -------- | -------------- | ----- |
-| 9780307279286  | Patrick Radden Keefe| Feb 25, 2020| 560| |https://openlibrary.org/books/OL28292208M/Say_Nothing|    
+| ISBN        | Authors      | Year    | Pages    | URL   |
+| ----------- | ------------ | ------- | -------- | ----- |
+| 9780307279286  | Patrick Radden Keefe| Feb 25, 2020| 560|https://openlibrary.org/books/OL28292208M/Say_Nothing|    
+
+### Description

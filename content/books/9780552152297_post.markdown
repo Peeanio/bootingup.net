@@ -1,8 +1,11 @@
 ---
 title: Vulcan 607
-date: 2023-06-03 16:20:56 -0700
+date: 2023-06-03 16:48:25 -0700
 ---
 
-| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
-| ----------- | ------------ | ------- | -------- | -------------- | ----- |
-| 9780552152297  | Rowland White| 2007| 523| When Argentinian forces invaded the Falklands Islands in 1982, it took the British government by surprise. They needed a fast response, and military chiefs came up with a plan of action - Operation Black Buck. This is an account of the last British bomber raid, recalling the long-range attack on Port Stanley that opened the Falklands War.|https://openlibrary.org/books/OL27858555M/Vulcan_607|    
+| ISBN        | Authors      | Year    | Pages    | URL   |
+| ----------- | ------------ | ------- | -------- | ----- |
+| 9780552152297  | Rowland White| 2007| 523|https://openlibrary.org/books/OL27858555M/Vulcan_607|    
+
+### Description
+When Argentinian forces invaded the Falklands Islands in 1982, it took the British government by surprise. They needed a fast response, and military chiefs came up with a plan of action - Operation Black Buck. This is an account of the last British bomber raid, recalling the long-range attack on Port Stanley that opened the Falklands War.

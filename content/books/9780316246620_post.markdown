@@ -1,8 +1,11 @@
 ---
 title: Ancillary Justice
-date: 2023-06-03 16:20:40 -0700
+date: 2023-06-03 16:48:06 -0700
 ---
 
-| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
-| ----------- | ------------ | ------- | -------- | -------------- | ----- |
-| 9780316246620  | Ann Leckie| 2013| 393| On a remote, icy planet, the soldier known as Breq is drawing closer to completing her quest.Once, she was the <em>Justice of Toren</em>--a colossal starship with an artificial intelligence linking thousands of soldiers in the service of the Radch, the empire that conquered the galaxy.Now, an act of treachery has ripped it all away, leaving her with one fragile human body, unanswered questions, and a burning desire for vengeance.Sequels: Ancillary Sword; Ancillary Mercy.|https://openlibrary.org/books/OL26489449M/Ancillary_Justice|    
+| ISBN        | Authors      | Year    | Pages    | URL   |
+| ----------- | ------------ | ------- | -------- | ----- |
+| 9780316246620  | Ann Leckie| 2013| 393|https://openlibrary.org/books/OL26489449M/Ancillary_Justice|    
+
+### Description
+On a remote, icy planet, the soldier known as Breq is drawing closer to completing her quest.Once, she was the <em>Justice of Toren</em>--a colossal starship with an artificial intelligence linking thousands of soldiers in the service of the Radch, the empire that conquered the galaxy.Now, an act of treachery has ripped it all away, leaving her with one fragile human body, unanswered questions, and a burning desire for vengeance.Sequels: Ancillary Sword; Ancillary Mercy.

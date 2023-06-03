@@ -1,8 +1,11 @@
 ---
 title: Mr. Putin
-date: 2023-06-03 16:20:50 -0700
+date: 2023-06-03 16:48:17 -0700
 ---
 
-| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
-| ----------- | ------------ | ------- | -------- | -------------- | ----- |
-| 9780815726173  | Fiona Hill , Clifford G. Gaddy| 2015| 533| Argues that Russia's President is a man of many and complex identities, reflecting both ingrained Russian ways of thinking as well as his unique personal background and experience. Dispels potentially dangerous misconceptions about Putin and offers a clear-eyed look at his objectives.|https://openlibrary.org/books/OL27189444M/Mr._Putin|    
+| ISBN        | Authors      | Year    | Pages    | URL   |
+| ----------- | ------------ | ------- | -------- | ----- |
+| 9780815726173  | Fiona Hill, Clifford G. Gaddy| 2015| 533|https://openlibrary.org/books/OL27189444M/Mr._Putin|    
+
+### Description
+Argues that Russia's President is a man of many and complex identities, reflecting both ingrained Russian ways of thinking as well as his unique personal background and experience. Dispels potentially dangerous misconceptions about Putin and offers a clear-eyed look at his objectives.

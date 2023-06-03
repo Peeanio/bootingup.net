@@ -1,8 +1,11 @@
 ---
 title: Code Warriors
-date: 2023-06-03 16:20:57 -0700
+date: 2023-06-03 16:48:26 -0700
 ---
 
-| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
-| ----------- | ------------ | ------- | -------- | -------------- | ----- |
-| 9780804170970  | Stephen Budiansky| 2017| 432| "A sweeping history of the NSA and its codebreaking achievements from World War II through the Cold War shares insights into the challenges faced by cryptanalysts and their role in some of the most complicated events of the twentieth century, "--NoveList.|https://openlibrary.org/books/OL28855445M/Code_Warriors|    
+| ISBN        | Authors      | Year    | Pages    | URL   |
+| ----------- | ------------ | ------- | -------- | ----- |
+| 9780804170970  | Stephen Budiansky| 2017| 432|https://openlibrary.org/books/OL28855445M/Code_Warriors|    
+
+### Description
+"A sweeping history of the NSA and its codebreaking achievements from World War II through the Cold War shares insights into the challenges faced by cryptanalysts and their role in some of the most complicated events of the twentieth century, "--NoveList.

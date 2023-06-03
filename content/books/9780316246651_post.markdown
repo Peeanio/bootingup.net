@@ -1,8 +1,11 @@
 ---
 title: Ancillary Sword
-date: 2023-06-03 16:21:11 -0700
+date: 2023-06-03 16:48:42 -0700
 ---
 
-| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
-| ----------- | ------------ | ------- | -------- | -------------- | ----- |
-| 9780316246651  | Ann Leckie| October 2014| 400| Breq is a soldier who used to be a warship. Once a weapon of conquest controlling thousands of minds, now she has only a single body and serves the emperor.With a new ship and a troublesome crew, Breq is ordered to go to the only place in the galaxy she would agree to go: to Athoek Station to protect the family of a lieutenant she once knew - a lieutenant she murdered in cold blood.|https://openlibrary.org/books/OL25631967M/Ancillary_Sword|    
+| ISBN        | Authors      | Year    | Pages    | URL   |
+| ----------- | ------------ | ------- | -------- | ----- |
+| 9780316246651  | Ann Leckie| October 2014| 400|https://openlibrary.org/books/OL25631967M/Ancillary_Sword|    
+
+### Description
+Breq is a soldier who used to be a warship. Once a weapon of conquest controlling thousands of minds, now she has only a single body and serves the emperor.With a new ship and a troublesome crew, Breq is ordered to go to the only place in the galaxy she would agree to go: to Athoek Station to protect the family of a lieutenant she once knew - a lieutenant she murdered in cold blood.

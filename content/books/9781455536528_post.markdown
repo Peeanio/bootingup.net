@@ -1,8 +1,10 @@
 ---
 title: Golden Thread
-date: 2023-06-03 16:21:34 -0700
+date: 2023-06-03 16:49:00 -0700
 ---
 
-| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
-| ----------- | ------------ | ------- | -------- | -------------- | ----- |
-| 9781455536528  | Ravi Somaiya| 2021| 304| |https://openlibrary.org/books/OL34118233M/Golden_Thread|    
+| ISBN        | Authors      | Year    | Pages    | URL   |
+| ----------- | ------------ | ------- | -------- | ----- |
+| 9781455536528  | Ravi Somaiya| 2021| 304|https://openlibrary.org/books/OL34118233M/Golden_Thread|    
+
+### Description

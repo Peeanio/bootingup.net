@@ -1,8 +1,10 @@
 ---
 title: War
-date: 2023-06-03 16:20:52 -0700
+date: 2023-06-03 16:48:20 -0700
 ---
 
-| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
-| ----------- | ------------ | ------- | -------- | -------------- | ----- |
-| 9780593132371  | Margaret MacMillan| Oct 05, 2021| 336| |https://openlibrary.org/books/OL32923598M/War|    
+| ISBN        | Authors      | Year    | Pages    | URL   |
+| ----------- | ------------ | ------- | -------- | ----- |
+| 9780593132371  | Margaret MacMillan| Oct 05, 2021| 336|https://openlibrary.org/books/OL32923598M/War|    
+
+### Description

@@ -1,8 +1,10 @@
 ---
 title: Scars
-date: 2023-06-03 16:38:50 -0700
+date: 2023-06-03 16:48:23 -0700
 ---
 
-| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
-| ----------- | ------------ | ------- | -------- | -------------- | ----- |
-| 9781849707497  | Chris Wraight| 2014| 416| |https://openlibrary.org/books/OL28551426M/Scars|    
+| ISBN        | Authors      | Year    | Pages    | URL   |
+| ----------- | ------------ | ------- | -------- | ----- |
+| 9781849707497  | Chris Wraight| 2014| 416|https://openlibrary.org/books/OL28551426M/Scars|    
+
+### Description

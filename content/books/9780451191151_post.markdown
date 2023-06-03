@@ -1,8 +1,11 @@
 ---
-title: The fountainhead
-date: 2023-06-03 16:20:43 -0700
+title: The Fountainhead
+date: 2023-06-03 16:48:07 -0700
 ---
 
-| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
-| ----------- | ------------ | ------- | -------- | -------------- | ----- |
-| 9780451191151  | Ayn Rand| 1993| 704| The Fountainhead is a 1943 novel by Ayn Rand. It was Rand's first major literary success and brought her fame and financial success. More than 6.5 million copies of the book have been sold worldwide.|https://openlibrary.org/books/OL20701851M/The_fountainhead|    
+| ISBN        | Authors      | Year    | Pages    | URL   |
+| ----------- | ------------ | ------- | -------- | ----- |
+| 9780451191151  | Ayn Rand| 1993| 704|https://openlibrary.org/books/OL20701851M/The_fountainhead|    
+
+### Description
+The Fountainhead is a 1943 novel by Ayn Rand. It was Rand's first major literary success and brought her fame and financial success. More than 6.5 million copies of the book have been sold worldwide.

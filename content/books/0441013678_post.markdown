@@ -1,8 +1,11 @@
 ---
 title: Count Zero
-date: 2023-06-03 16:21:24 -0700
+date: 2023-06-03 16:48:51 -0700
 ---
 
-| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
-| ----------- | ------------ | ------- | -------- | -------------- | ----- |
-| 0441013678  | William Gibson| 2006| p. cm.| Turner, corporate mercenary, wakes in a reconstructed body, a beautiful woman by his side. Then Hosaka Corporation reactivates him for a mission more dangerous than the one he's recovering from: Maas-Neotek's chief of R&amp;D is defecting. Turner is the one assigned to get him out intact, along with the biochip he's perfected. But this proves to be of supreme interest to certain other parties--some of whom aren't remotely human.Bobby Newmark is entirely human: a rustbelt data-hustler totally unprepared for what comes his way when the defection triggers war in cyberspace. With voodoo on the Net and a price on his head, Newmark thinks he's only trying to get out alive.The second novel of William Gibson's Sprawl trilogy, <em>Count Zero</em> is a stylish, streetsmart, frighteningly probable parable of the future and sequel to Neuromancer.|https://openlibrary.org/books/OL3431534M/Count_Zero|    
+| ISBN        | Authors      | Year    | Pages    | URL   |
+| ----------- | ------------ | ------- | -------- | ----- |
+| 0441013678  | William Gibson| 2006| p. cm.|https://openlibrary.org/books/OL3431534M/Count_Zero|    
+
+### Description
+Turner, corporate mercenary, wakes in a reconstructed body, a beautiful woman by his side. Then Hosaka Corporation reactivates him for a mission more dangerous than the one he's recovering from: Maas-Neotek's chief of R&amp;D is defecting. Turner is the one assigned to get him out intact, along with the biochip he's perfected. But this proves to be of supreme interest to certain other parties--some of whom aren't remotely human.Bobby Newmark is entirely human: a rustbelt data-hustler totally unprepared for what comes his way when the defection triggers war in cyberspace. With voodoo on the Net and a price on his head, Newmark thinks he's only trying to get out alive.The second novel of William Gibson's Sprawl trilogy, <em>Count Zero</em> is a stylish, streetsmart, frighteningly probable parable of the future and sequel to Neuromancer.

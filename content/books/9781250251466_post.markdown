@@ -1,8 +1,11 @@
 ---
-title: The Eye of the World
-date: 2023-06-03 16:21:39 -0700
+title: The Eye Of The World
+date: 2023-06-03 16:49:04 -0700
 ---
 
-| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
-| ----------- | ------------ | ------- | -------- | -------------- | ----- |
-| 9781250251466  | Robert Jordan| Oct 29, 2019| 864| The Wheel of Time turns and Ages come and go, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again. In the Third Age, an Age of Prophecy, the World and Time themselves hang in the balance. What was, what will be, and what is, may yet fall under the Shadow.|https://openlibrary.org/books/OL28180385M/The_Eye_of_the_World|    
+| ISBN        | Authors      | Year    | Pages    | URL   |
+| ----------- | ------------ | ------- | -------- | ----- |
+| 9781250251466  | Robert Jordan| Oct 29, 2019| 864|https://openlibrary.org/books/OL28180385M/The_Eye_of_the_World|    
+
+### Description
+The Wheel of Time turns and Ages come and go, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again. In the Third Age, an Age of Prophecy, the World and Time themselves hang in the balance. What was, what will be, and what is, may yet fall under the Shadow.

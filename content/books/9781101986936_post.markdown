@@ -1,8 +1,10 @@
 ---
 title: Agency
-date: 2023-06-03 16:28:50 -0700
+date: 2023-06-03 16:48:19 -0700
 ---
 
-| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
-| ----------- | ------------ | ------- | -------- | -------------- | ----- |
-| 9781101986936  | William Gibson| 2020| | |https://openlibrary.org/books/OL27902332M/Agency|    
+| ISBN        | Authors      | Year    | Pages    | URL   |
+| ----------- | ------------ | ------- | -------- | ----- |
+| 9781101986936  | William Gibson| 2020| |https://openlibrary.org/books/OL27902332M/Agency|    
+
+### Description
