@@ -1,0 +1,8 @@
+---
+title: Heavy weather
+date: 2023-06-03 16:20:45 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 0553093932  | Bruce Sterling| 1994| 310| |https://openlibrary.org/books/OL1087768M/Heavy_weather|    

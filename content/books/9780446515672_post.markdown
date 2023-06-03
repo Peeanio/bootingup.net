@@ -1,0 +1,8 @@
+---
+title: Cauldron
+date: 2023-06-03 16:21:01 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9780446515672  | Larry Bond| 1993| 569| Larry Bond's insight into a hypothetical economic downturn so severe it began the end of free trade and another world war was not only an interesting and telling story when this book was written, but over 15 years later it still can teach us a lot.  Cauldron is a very accurate book, something Bond seems to take pride in from other books of his I have read.  Certainly in light of the Great Recession that could very well have taken this path if not for very sharp measures by many of the world's governments, trade wars were certainly on the horizon.  France and Germany band together to form a new 'EuroCon', in a last ditch effort to save their economies.  Unfortunately, much like WW2, eventually some countries are forced into this union, and the world is pushed to yet another global war.|https://openlibrary.org/books/OL1743339M/Cauldron|    

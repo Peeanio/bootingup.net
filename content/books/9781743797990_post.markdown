@@ -1,0 +1,8 @@
+---
+title: Spies and Lies
+date: 2023-06-03 16:21:41 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9781743797990  | Alex Joske| 2022| 304| |https://openlibrary.org/books/OL38185485M/Spies_and_Lies|    

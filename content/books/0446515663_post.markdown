@@ -1,0 +1,8 @@
+---
+title: Vortex
+date: 2023-06-03 16:38:53 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 0446515663  | Larry Bond| 1991| 670| In the bestselling "Red Phoenix, " Larry Bond showed, in a world of explosive uncertainty, what a new Korean War would be like. Now, in VORTEX, he takes his storytelling powers one astonishing step further in an epic novel set in one of the most emotionally charged global flashpoints today - South Africa. As the forces of white supremacy make their last ruthless stand, as chaos threatens an entire continent, and as the world is faced with Armageddon itself, America mobilizes Operation Brave Fortune, a full-scale war effort it will wage on land, at sea, in the air...|https://openlibrary.org/books/OL1888989M/Vortex|    

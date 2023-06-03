@@ -1,0 +1,8 @@
+---
+title: Damnation Alley
+date: 2023-06-03 16:28:56 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 0812558758  | Roger Zelazny| September 1984| | Across a United States all but destroyed by war and characterized by violent storms and giant bats and snakes, men embark on a seemingly doomed mission to deliver an antiserum to plague-ridden Boston.|https://openlibrary.org/books/OL9422985M/Damnation_Alley|    

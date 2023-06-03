@@ -1,0 +1,8 @@
+---
+title: We Have Been Harmonized
+date: 2023-06-03 16:21:08 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9780063027305  | Kai Strittmatter| Sep 15, 2021| 320| |https://openlibrary.org/books/OL31855363M/We_Have_Been_Harmonized|    

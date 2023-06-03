@@ -1,0 +1,8 @@
+---
+title: Ghost wars
+date: 2023-06-03 16:21:03 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9780143034667  | Steve Coll| 2005| 712| About the CIA's presence and absence in Afghanistan from the soviet invasion to 9/11.|https://openlibrary.org/books/OL17922139M/Ghost_wars|    

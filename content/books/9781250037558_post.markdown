@@ -1,0 +1,8 @@
+---
+title: Foundation
+date: 2023-06-03 16:21:07 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9781250037558  | Peter Ackroyd| Sep 10, 2013| 496| |https://openlibrary.org/books/OL27590320M/Foundation|    

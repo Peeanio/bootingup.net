@@ -1,0 +1,8 @@
+---
+title: The Forgotten Highlander An Incredible Wwii Story Of Survival In The Pacific
+date: 2023-06-03 16:28:46 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9781616084073  | Alistair Urquhart| 2011| | |https://openlibrary.org/books/OL26003431M/The_Forgotten_Highlander_An_Incredible_Wwii_Story_Of_Survival_In_The_Pacific|    

@@ -1,0 +1,8 @@
+---
+title: Pattern recognition
+date: 2023-06-03 16:28:47 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 0425192938  | William Gibson| February 2004| | One of the most influential and imaginative writers of the past twenty years turns his attention to London - with dazzling results.Cayce Pollard owes her living to her pathological sensitivity to logos. In London to consult for the world's coolest ad agency, she finds herself catapulted, via her addiction to a mysterious body of fragmentary film footage, uploaded to the Web by a shadowy auteur, into a global quest for this unknown 'garage Kubrick'. Cayce becomes involved with an eccentric hacker, a vengeful ad executive, a defrocked mathematician, a Tokyo Otaku-coven known as Eye of the Dragon and, eventually, the elusive 'Kubrick' himself. William Gibson's new novel is about the eternal mystery of London, the coolest sneakers in the world, and life in (the former) USSR.|https://openlibrary.org/books/OL24357453M/Pattern_recognition|    

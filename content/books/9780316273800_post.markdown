@@ -1,0 +1,8 @@
+---
+title: The Age of A.I.
+date: 2023-06-03 16:21:28 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9780316273800  | Henry A Kissinger , Eric Schmidt , Daniel Huttenlocher| Nov 02, 2021| 272| |https://openlibrary.org/books/OL32845229M/The_Age_of_A.I.|    

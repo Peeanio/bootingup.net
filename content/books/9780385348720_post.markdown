@@ -1,0 +1,8 @@
+---
+title: Splendid and the Vile
+date: 2023-06-03 16:38:56 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9780385348720  | Erik Larson| 2020| 608| |https://openlibrary.org/books/OL34944588M/Splendid_and_the_Vile|    

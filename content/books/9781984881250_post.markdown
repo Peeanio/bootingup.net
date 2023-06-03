@@ -1,0 +1,8 @@
+---
+title: 2034
+date: 2023-06-03 16:21:40 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9781984881250  | Elliot Ackerman, James Stavridis| 2021| 320| |https://openlibrary.org/books/OL29956910M/2034|    

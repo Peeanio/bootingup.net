@@ -1,0 +1,8 @@
+---
+title: Cuckoo's Egg
+date: 2023-06-03 16:21:30 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 0671726889  | Clifford Stoll| November 1, 1990| 356| In the days when the presence of a computer did NOT presume the presence of a network (they used to be freestanding units that could not easily communicate with another system), accounts to use the computer were expensive to maintain and heavily scrutinized by management.  When the Accounting staff of Stoll's university employer discovered 75 cents' worth of time used with which no user was associated, they called him and demanded that he locate the "phantom" user.  Stoll wasn't even a computing pro - he was an astronomer that used the computer to run programs that pointed telescopes properly.  But he was a member of a club that exists today - that person elected to do network administration because he drew the short straw.  Stoll tells the ensuing circa 1985 tale of analysis when people worldwide were only just discovering what networks could reveal... and hide.  Rather like today.|https://openlibrary.org/books/OL7663345M/Cuckoo's_Egg|    

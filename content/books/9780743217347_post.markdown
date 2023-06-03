@@ -1,0 +1,8 @@
+---
+title: Battle of wits
+date: 2023-06-03 16:38:46 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9780743217347  | Stephen Budiansky| 2002| 436| A million pages of new World War II codebreaking records have been released by the U.S. Army and Navy and the British government over the last five years. Now, Battle of Wits presents the history of the war that these documents reveal. From the battle of Midway until the last German code was broken in January 1945, this is an astonishing epic of a war that was won not simply by brute strength but also by reading the enemy's intentions. <br/>    The revelations of Stephen Budiansky's dramatic history include how Britain tried to manipulate the American codebreakers and monopolize German Enigma code communications; the first detailed published explanations of how the Japanese codes were broken; and how the American codebreaking machines worked to crack the Japanese, the German, and even the Russian diplomatic codes. The compelling narrative shows the crucial effect codebreaking had on the battlefields by explaining the urgency of stopping the wolf pack U-boat attacks in the North Atlantic, the importance of halting Rommel's tanks in North Africa, and the necessity of ensuring that the Germans believed the Allies' audacious deception and cover plans for D-Day. Unveiled for the first time, the complete story of codebreaking in World War II has now been told.|https://openlibrary.org/books/OL21599547M/Battle_of_wits|    

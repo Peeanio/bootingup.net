@@ -1,0 +1,8 @@
+---
+title: Putin's People
+date: 2023-06-03 16:21:31 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9781250787323  | Catherine Belton| Jun 22, 2021| 656| |https://openlibrary.org/books/OL30111554M/Putin's_People|    

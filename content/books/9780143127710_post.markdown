@@ -1,0 +1,8 @@
+---
+title: World Order
+date: 2023-06-03 16:21:26 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9780143127710  | Henry Kissinger| 2015| 432| |https://openlibrary.org/books/OL28811750M/World_Order|    
