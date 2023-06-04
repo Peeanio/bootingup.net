@@ -1,0 +1,28 @@
+#!/usr/bin/env python
+'''
+Author: Max Russell
+pre-commit hook script that finds changes in head
+and scrapes for changes to read list to automatically create 
+book templates for blog
+'''
+
+import git
+import re 
+import os
+
+repo = git.Repo(".")
+changed = repo.git.diff("HEAD", name_only=True)
+changed_list = changed.split("\n")
+if "read.txt" in changed_list:
+    changes = repo.git.diff().split("\n")
+    for change in changes:
+        match = re.match(r'\+[0-9]{13}', change)
+        if match:
+            isbn = change[1:]
+            print(os.getcwd())
+            os.system(f"./books.py -i {isbn}")
+            old_file = f"./{isbn}_post.markdown"
+            new_file = f"./content/books/{isbn}_post.markdown"
+            os.rename(old_file, new_file)
+            repo.git.add(new_file)
+            repo.index.commit(f"new book template: {isbn}")
