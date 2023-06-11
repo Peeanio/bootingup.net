@@ -1,0 +1,8 @@
+---
+title: Weaponisation of Everything
+date: 2023-06-11 10:38:22 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9780300270419  | Mark Galeotti| 2023| 248| |https://openlibrary.org/books/OL39566165M/Weaponisation_of_Everything|    
