@@ -1,0 +1,8 @@
+---
+title: Spies, Lies, and Algorithms
+date: 2023-07-04 21:11:20 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9780691223070  | Amy B. Zegart| 2023| 424| |https://openlibrary.org/books/OL39556182M/Spies_Lies_and_Algorithms|    
