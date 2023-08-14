@@ -1,0 +1,8 @@
+---
+title: Ancillary Mercy
+date: 2023-08-14 12:46:51 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9780316565189  | Ann Leckie| 2023| 368| |https://openlibrary.org/books/OL42774696M/Ancillary_Mercy|    

@@ -1,0 +1,8 @@
+---
+title: Invention by Design
+date: 2023-08-14 12:47:43 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 0674463684  | Henry Petroski| 1998| 252| This book explores the nature of engineering and technology through case studies of familiar objects, from paper clips and aluminum cans to airplanes and modern high-rise buildings. These real-world artifacts (some of which I have written about before) are approached here from a perspective designed to illuminate different facets of the engineering enterprise -- design, analysis, failure, economics, aesthetics, communications, politics, and quality control, to name but a few. The case studies also touch on a variety of engineering fields, including aeronautical, civil, computer, electrical, environmental, manufacturing, mechanical, and structural engineering. - Preface.|https://openlibrary.org/books/OL29218219M/Invention_by_Design|    
