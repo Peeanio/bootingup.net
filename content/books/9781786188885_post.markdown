@@ -1,0 +1,8 @@
+---
+title: Terrible Worlds
+date: 2023-08-26 16:11:23 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9781786188885  | Adrian Tchaikovsky| 2023| 464| |https://openlibrary.org/books/OL40315073M/Terrible_Worlds|    
