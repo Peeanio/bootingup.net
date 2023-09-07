@@ -1,0 +1,8 @@
+---
+title: The Damnation of Pythos
+date: 2023-09-06 18:48:16 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9781849707145  | David Annandale| Nov 11, 2014| | |https://openlibrary.org/books/OL30940651M/The_Damnation_of_Pythos|    

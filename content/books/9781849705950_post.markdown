@@ -1,0 +1,8 @@
+---
+title: Vengeful Spirit
+date: 2023-09-06 18:47:53 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9781849705950  | Graham McNeill| Aug 12, 2014| 544| |https://openlibrary.org/books/OL31841852M/Vengeful_Spirit|    
