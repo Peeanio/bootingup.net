@@ -1,0 +1,52 @@
+---
+layout: post
+title: "Rust Esp32"
+date: 2023-09-08 00:00:00 -0700
+categories: Blog update
+---
+
+For some time now, I have been meaning to get started with Esp32's in earnest, and wanted an excuse to get started with Rust in something that was meaningful and embedded. I took the chance, and given the majority of my chips we esp32 v3.0, I had some hoops to get go through to get it working properly. Below should outline the steps I needed to take to get going with rust and this chip.
+
+1. Ensure that the user has serial access to the usb devices, and potentially start a new shell to get this permission. You could always re-log
+    ```
+    sudo usermod -a -G dialout $USER
+    su - $USER
+    ```
+2. [Install rust with rustup](https://www.rust-lang.org/tools/install). This command does make it easier than relying on the package manager for versioning, since we need to use `nightly` anyway.
+    ```
+    curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+    ```
+3. Following the [esp-rs guide](https://esp-rs.github.io/std-training/03_2_cargo_generate.html), install and run the project start helper tool. Use the prompts to configure, mainly setting the target.
+    ```
+    cargo install cargo-generate
+    cd intro
+    cargo generate https://github.com/esp-rs/esp-idf-template cargo
+    ```
+4. Edit `.cargo/config.toml` to match
+    ```
+    [env]
+    # ...
+    ESP_IDF_TOOLS_INSTALL_DIR = { value = "global" } # add this line
+    ```
+    and `rust-toolchain.toml` to have `channel = ` to `$(rustup default | awk '{ print $1 }')`
+    ```
+    [toolchain]
+
+    channel = "nightly-x86_64-unknown-linux-gnu"
+    ```
+5. Install the rust toolchain for needed target by dowloading and running https://github.com/esp-rs/rust-build/blob/main/install-rust-toolchain.sh
+6. This creates a script `export-esp.sh` which is needed to export the correct path for clang etc.
+    ```
+    . ./export-esp.sh
+    ```
+7. Unless I have missed something, this should have been enough to flash. Ensure that the device is connected, then
+    ```
+    cargo +esp run
+    ```
+    This will erase and flash the device. With the default generated code, it should end with
+    ```
+    I (436) <<project name>>: Hello, world!
+    ```
+    at which point, you're good to go!
+
+I hope this saves someone some time getting started with a basic esp32 like me. If I have missed anything and notice, I will update this, but if you notice it first please contact me or submit a PR with the changes!
