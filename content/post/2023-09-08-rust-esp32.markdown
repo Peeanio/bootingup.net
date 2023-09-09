@@ -18,7 +18,7 @@ For some time now, I have been meaning to get started with Esp32's in earnest, a
     ```
 3. Following the [esp-rs guide](https://esp-rs.github.io/std-training/03_2_cargo_generate.html), install and run the project start helper tool. Use the prompts to configure, mainly setting the target.
     ```
-    cargo install cargo-generate
+    cargo install cargo-generate espflash cargo-espflash ldproxy
     cd intro
     cargo generate https://github.com/esp-rs/esp-idf-template cargo
     ```
