@@ -1,0 +1,8 @@
+---
+title: Legacies of Betrayal
+date: 2023-09-16 12:56:55 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9781849708371  | Laurie Goulding| Apr 14, 2015| 448| |https://openlibrary.org/books/OL31976770M/Legacies_of_Betrayal|    
