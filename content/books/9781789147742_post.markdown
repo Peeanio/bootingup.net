@@ -1,0 +1,8 @@
+---
+title: Basilisks and Beowulf
+date: 2023-10-27 13:42:28 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9781789147742  | Tim Flight| 2023| 264| |https://openlibrary.org/books/OL48274075M/Basilisks_and_Beowulf|    
