@@ -1,0 +1,8 @@
+---
+title: The chosen few
+date: 2023-11-15 08:32:16 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9780306903182  | Gregg Zoroya| 2017| 370| |https://openlibrary.org/books/OL26959848M/The_chosen_few|    
