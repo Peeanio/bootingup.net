@@ -1,0 +1,8 @@
+---
+title: Conflict
+date: 2023-12-03 12:47:15 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9780063293137  | David Petraeus, Andrew Roberts| 2023| 400| |https://openlibrary.org/books/OL46769324M/Conflict|    
