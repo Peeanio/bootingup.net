@@ -1,0 +1,8 @@
+---
+title: Numbers, predictions, and war
+date: 2023-12-22 17:39:36 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 0672521318  | Trevor Nevitt Dupuy| 1979| 244| |https://openlibrary.org/books/OL4538975M/Numbers_predictions_and_war|    
