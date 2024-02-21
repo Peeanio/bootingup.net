@@ -1,0 +1,8 @@
+---
+title: The Black Tulip
+date: 2024-02-20 17:26:39 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 0375760830  | Milt Bearden| January 2, 2002| 336| |https://openlibrary.org/books/OL7427621M/The_Black_Tulip|    
