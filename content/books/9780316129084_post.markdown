@@ -1,0 +1,8 @@
+---
+title: Leviathan Wakes
+date: 2024-03-22 17:02:21 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9780316129084  | James S. A. Corey| 2011-15-06| 577| |https://openlibrary.org/books/OL32667325M/Leviathan_Wakes|    
