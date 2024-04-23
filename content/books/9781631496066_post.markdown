@@ -1,0 +1,8 @@
+---
+title: Cold Peace
+date: 2024-04-22 19:27:01 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9781631496066  | Michael W. Doyle| 2023| 336| |https://openlibrary.org/books/OL38802193M/Cold_Peace|    
