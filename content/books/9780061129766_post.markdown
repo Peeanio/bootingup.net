@@ -1,0 +1,8 @@
+---
+title: The Monkey Wrench Gang (P.S.)
+date: 2024-06-02 15:41:21 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9780061129766  | Edward Abbey| December 12, 2006| 421| |https://openlibrary.org/books/OL7288394M/The_Monkey_Wrench_Gang_(P.S.)|    
