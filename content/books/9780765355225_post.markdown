@@ -1,0 +1,8 @@
+---
+title: Empire
+date: 2024-06-15 18:55:12 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9780765355225  | Orson Scott Card| 2007| 368| |https://openlibrary.org/books/OL9457825M/Empire|    

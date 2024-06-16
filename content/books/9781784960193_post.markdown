@@ -1,0 +1,8 @@
+---
+title: Deathfire
+date: 2024-06-15 18:55:32 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9781784960193  | Nick Kyme| Nov 17, 2015| 416| |https://openlibrary.org/books/OL32044869M/Deathfire|    
