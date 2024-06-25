@@ -1,0 +1,8 @@
+---
+title: The forever war
+date: 2024-06-24 18:10:02 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9780312536633  | Joe Haldeman, Marvano, Edith Zilli, Patrick Imbert| 2009| 264| |https://openlibrary.org/books/OL23164925M/The_forever_war|    
