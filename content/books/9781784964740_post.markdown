@@ -1,0 +1,8 @@
+---
+title: Pharos
+date: 2024-08-05 18:01:31 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9781784964740  | Guy Haley| 2016-09-06| | |https://openlibrary.org/books/OL52369680M/Pharos|    
