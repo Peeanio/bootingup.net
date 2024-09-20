@@ -1,6 +1,6 @@
 ---
 title: Man in the High Castle (Tie-In)
-date: 2024-08-05 18:01:20 -0700
+date: 2024-09-19 19:02:54 -0700
 ---
 
 | ISBN        | Authors      | Year    | Pages    | Description    | URL   |
