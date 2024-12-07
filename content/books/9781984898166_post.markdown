@@ -1,0 +1,8 @@
+---
+title: Written in History
+date: 2024-12-06 16:31:24 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9781984898166  | Simon Sebag-Montefiore| 2019| 336| |https://openlibrary.org/books/OL40066409M/Written_in_History|    

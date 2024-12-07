@@ -1,0 +1,8 @@
+---
+title: Caliban's war
+date: 2024-11-16 09:26:07 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9780316129060  | James S. A. Corey| 2012| p. cm.| |https://openlibrary.org/books/OL25004982M/Caliban's_war|    

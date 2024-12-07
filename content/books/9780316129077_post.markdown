@@ -1,0 +1,8 @@
+---
+title: Abaddon's Gate
+date: 2024-11-27 16:10:50 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9780316129077  | James S. A. Corey| 2013-06-04| 547| |https://openlibrary.org/books/OL32667355M/Abaddon's_Gate|    
