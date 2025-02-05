@@ -1,0 +1,8 @@
+---
+title: Season of the Witch
+date: 2025-02-04 18:09:17 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9781439108246  | David Talbot| Mar 05, 2013| 480| |https://openlibrary.org/books/OL32935879M/Season_of_the_Witch|    

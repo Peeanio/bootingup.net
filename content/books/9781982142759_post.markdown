@@ -1,0 +1,8 @@
+---
+title: Firebreak
+date: 2025-02-04 18:09:18 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9781982142759  | Nicole Kornher-Stace| 2022| 416| |https://openlibrary.org/books/OL34154213M/Firebreak|    
