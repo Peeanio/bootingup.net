@@ -1,0 +1,8 @@
+---
+title: Unruly
+date: 2025-02-17 14:56:16 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9780593728505  | David Mitchell| 2024| 448| |https://openlibrary.org/books/OL52240916M/Unruly|    
