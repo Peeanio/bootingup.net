@@ -1,0 +1,8 @@
+---
+title: Star Wars: The Mandalorian Armor
+date: 2025-03-27 16:17:49 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 0553578855  | K. W. Jeter| 1998| 387| |https://openlibrary.org/books/OL24373344M/Star_Wars_The_Mandalorian_Armor|    

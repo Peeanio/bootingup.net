@@ -1,0 +1,8 @@
+---
+title: True names by Vernor Vinge and the opening of the cyberspace frontier
+date: 2025-03-27 16:17:46 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 0312862075  | Vernor Vinge, James Frenkel| 2001| 352| |https://openlibrary.org/books/OL3328197M/True_names_by_Vernor_Vinge_and_the_opening_of_the_cyberspace_frontier|    

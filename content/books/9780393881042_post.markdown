@@ -1,0 +1,8 @@
+---
+title: Damascus Station
+date: 2025-03-27 16:17:51 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9780393881042  | David Mccloskey| 2021| 400| |https://openlibrary.org/books/OL34707761M/Damascus_Station|    
