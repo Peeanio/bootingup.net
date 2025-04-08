@@ -1,7 +1,7 @@
 ---
 layout: post
 title:	"What Makes a Linux Distro"
-date:	2018-12-23 11:30:0 -0700
+date:	2018-12-23 11:30:00 -0700
 categories: linux update
 ---
 

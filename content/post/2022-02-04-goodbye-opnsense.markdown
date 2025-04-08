@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Goodbye Opnsense"
-date:   2022-02-4 00:00:33 -0700
+date:   2022-02-04 00:00:33 -0700
 categories: Blog update 
 ---
 

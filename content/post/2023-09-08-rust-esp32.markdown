@@ -18,7 +18,7 @@ For some time now, I have been meaning to get started with Esp32's in earnest, a
     ```
 3. Following the [esp-rs guide](https://esp-rs.github.io/std-training/03_2_cargo_generate.html), install and run the project start helper tool. Use the prompts to configure, mainly setting the target.
     ```
-    cargo install cargo-generate espflash cargo-espflash ldproxy
+    cargo install cargo-generate espflash cargo-espflash ldproxy espup
     cd intro
     cargo generate https://github.com/esp-rs/esp-idf-template cargo
     ```
@@ -34,7 +34,10 @@ For some time now, I have been meaning to get started with Esp32's in earnest, a
 
     channel = "nightly-x86_64-unknown-linux-gnu"
     ```
-5. Install the rust toolchain for needed target by dowloading and running https://github.com/esp-rs/rust-build/blob/main/install-rust-toolchain.sh
+5. Install the rust toolchain for needed target by  running `espup`
+    ```
+    espup install
+    ```
 6. This creates a script `export-esp.sh` which is needed to export the correct path for clang etc.
     ```
     . ./export-esp.sh

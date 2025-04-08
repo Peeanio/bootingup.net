@@ -1,7 +1,7 @@
 ---
 layout: post
 title:	"Building a Homelab"
-date:	2018-12-19 22:10 -0800
+date:	2018-12-19 22:10:00 -0800
 categories: homelab update
 ---
 # Intro
