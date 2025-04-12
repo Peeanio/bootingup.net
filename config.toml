@@ -1,8 +1,7 @@
 baseurl = "https://www.bootingup.net/" 
 title = "Bootingup.net"
-author = "Your name"
+author = "Peeanio"
 theme = "ananke"
-Paginate = 100
 SectionPagesMenu = "main"
 
 [[params.ananke_socials]]
