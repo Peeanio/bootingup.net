@@ -1,0 +1,8 @@
+---
+title: "Cibola Burn"
+date: 2025-04-14 16:02:16 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9780316217620  | James S. A. Corey| 2014-17-06| 591| |https://openlibrary.org/books/OL32667308M/Cibola_Burn|    

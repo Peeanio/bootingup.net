@@ -4,6 +4,9 @@ author = "Peeanio"
 theme = "ananke"
 SectionPagesMenu = "main"
 
+[[renderer]]
+unsafe = true
+
 [[params.ananke_socials]]
 name = "github"
 url = "https://github.com/Peeanio"
