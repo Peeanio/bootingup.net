@@ -8,3 +8,7 @@ renderer.unsafe = true
 [[params.ananke_socials]]
 name = "github"
 url = "https://github.com/Peeanio"
+
+[params.ananke.social.follow]
+new_window_icon = false
+networks = []
