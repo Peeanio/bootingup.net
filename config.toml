@@ -5,6 +5,8 @@ theme = ["ananke"]
 SectionPagesMenu = "main"
 renderer.unsafe = true
 
+mainSections = ["post"]
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
