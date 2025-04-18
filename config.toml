@@ -1,11 +1,9 @@
 baseurl = "https://www.bootingup.net/" 
 title = "Bootingup.net"
 author = "Peeanio"
-theme = "ananke"
+theme = ["ananke"]
 SectionPagesMenu = "main"
 renderer.unsafe = true
-
-theme = ["anake"]
 
 [[params.ananke_socials]]
 name = "github"
