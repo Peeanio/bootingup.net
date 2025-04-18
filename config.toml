@@ -3,9 +3,9 @@ title = "Bootingup.net"
 author = "Peeanio"
 theme = "ananke"
 SectionPagesMenu = "main"
+renderer.unsafe = true
 
-[[renderer]]
-unsafe = true
+theme = ["anake"]
 
 [[params.ananke_socials]]
 name = "github"
