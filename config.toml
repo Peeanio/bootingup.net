@@ -5,6 +5,11 @@ theme = ["ananke"]
 SectionPagesMenu = "main"
 renderer.unsafe = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [[params.ananke_socials]]
 name = "github"
 url = "https://github.com/Peeanio"
