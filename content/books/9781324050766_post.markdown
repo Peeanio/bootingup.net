@@ -1,0 +1,8 @@
+---
+title: "Moscow X"
+date: 2025-04-29 16:09:10 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9781324050766  | David McCloskey| 2023| 432| |https://openlibrary.org/books/OL46829207M/Moscow_X|    
